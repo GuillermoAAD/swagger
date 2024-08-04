@@ -1,8 +1,10 @@
-# Swagger Peeview
+# Swagger Preview
 
 This repository contains the necessary to implement a swagger (yaml) preview.
 
 ## USE
+
+Replace the .yaml file with yours
 
 ### Simple Local
 
